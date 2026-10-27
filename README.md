@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer @ Scalix World · Creator of Scalix Coder · Tool Engineering Student at NTTF</h3>
 
 <p align="center">
-  <a href="https://kishoreravi.online"><img src="https://img.shields.io/badge/Portfolio-kishoreravi2007.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://kishoreravi.online"><img src="https://img.shields.io/badge/Portfolio-kishoreravi.online-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:kishorekailas2@gmail.com"><img src="https://img.shields.io/badge/Email-kishorekailas2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/kishoreravi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Kishore%20Ravi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=Kishoreravi2007&style=for-the-badge&color=blueviolet" alt="Profile views">
